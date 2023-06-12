@@ -1,5 +1,1 @@
-- 👋 Hi, my names Aaron Gorbaty
-- 👀 I’m interested in all things Cybersecurity, Quantum, and Machine Learning
-- 🌱 I’m currently learning Computer Science with a focus in Cybersecurity
-- 💞️ I’m looking to collaborate on projects that intrigue me
-- 📫 Reach me at aarongor@umd.edu
+
