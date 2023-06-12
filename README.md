@@ -1,10 +1,10 @@
-## About Me ##
+# About Me ##
 
-### Education ###
+## Education ###
 
 I'm currently studying Computer Science and Cyber Security at the University of Maryland - College Park
 
-### Interests ###
+## Interests ###
 
 | Rank | Hobbies   |
 |-----:|-----------|
@@ -12,4 +12,4 @@ I'm currently studying Computer Science and Cyber Security at the University of 
 |     2| Cooking   |
 |     3| Skiing    |
 
-### Currently ###
+## Currently ###
